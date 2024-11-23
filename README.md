@@ -6,8 +6,7 @@
 npm install mathjs
 ```
 ### Note:
-I made this project to understand the working of simple vanilla neural networks. As a result, this network is not very optimized—it's slow and inefficient. It is very much prone to errors considering how unpolished it is. I would never use it myself for any future projects. The only reason I am publishing it is because this is my first project, so I believe it's fine.
-
+I made this project to understand the working of a simple vanilla neural networks. As a result, this network is not very optimized—it's slow and inefficient. It is very much prone to errors considering how unpolished it is. I am only publishing it as it is my first project.
 **ALSO:**  
 My network DOES NOT contain biases.
 
